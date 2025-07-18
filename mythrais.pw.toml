@@ -1,0 +1,16 @@
+filename = 'mythrais-3.0.3-1.20.1-beta3.jar'
+name = 'Mythrais'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '969407d45103fb550f4572631f6f161efa809f672cd76213fa9472841d274c9abdcd41089d3067cf3038576a6caaaeb5c08dffe9052881a7f0c84d812b6a1cd8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/dz8ogIVL/versions/HlxpYbv6/mythrais-3.0.3-1.20.1-beta3.jar'
+
+[update.modrinth]
+mod-id = 'dz8ogIVL'
+version = 'HlxpYbv6'
