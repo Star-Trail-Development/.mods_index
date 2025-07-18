@@ -1,0 +1,16 @@
+filename = 'maidsoulkitchen-1.20.1-beta-v0.1.3.jar'
+name = 'Maidsoul Kitchen'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = 'caab6184d0bf48ad1a64517a0cb8bb158b8e1ff4569488ab7c45ab84cb0c115e97b9646ef6a6f5093abeec457d48f1cad705156f5cdca77ac64eb617407146aa'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Q5ZXy0QB/versions/ilDfe73c/maidsoulkitchen-1.20.1-beta-v0.1.3.jar'
+
+[update.modrinth]
+mod-id = 'Q5ZXy0QB'
+version = 'ilDfe73c'
