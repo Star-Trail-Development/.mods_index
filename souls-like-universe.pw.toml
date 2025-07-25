@@ -1,0 +1,16 @@
+filename = '[FORGE]slu_5200.1.20.1.jar'
+name = 'souls-like universe: epic fight & better combat'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c0bb3770479cbd6abae4d77b335976e1544eb0c8814ce0b78a4844a3d94d3b0eb58c746af09cc4cec9945aab6b413268e278c0c020f966839fd3df2568185e51'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/NfC2TBZe/versions/B7zHPnbx/%5BFORGE%5Dslu_5200.1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'NfC2TBZe'
+version = 'B7zHPnbx'
